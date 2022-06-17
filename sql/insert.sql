@@ -1,0 +1,2 @@
+INSERT INTO countries(COUNTRY_ID, COUNTRY_NAME)
+VALUES ('pl', 'Poland');
